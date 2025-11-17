@@ -21,7 +21,9 @@ If you have a blank page next to your Unreal 5 `.uproject` file then you will no
 ![](./images/line3.png)
 ##### `Step 2.`\|`P4VUE5`|🔹🔹
 
-![alt text](images/.png)
+Right click on the `.uproject` file and select **Open with** then in the next pop up if there is no **Unreal** icon then select **Choose another app**. If there is still no Unreal app then select **Choose an app on your PC**. 
+
+![right click and open with](./images/RightClickSelectApp.png)
 
 ![](../images/line3.png)
 
@@ -33,7 +35,7 @@ If you have a blank page next to your Unreal 5 `.uproject` file then you will no
 
 ##### `Step 4.`\|`P4VUE5`|🔹🔹🔹🔹
 
-![alt text](images/.png)
+![alt text](images/LinkToEditor.png)
 
 ![](../images/line3.png)
 
