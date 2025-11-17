@@ -95,8 +95,12 @@ The second way to create a visual solution file and project files is through the
 
 ##### `Step 11.`\|`P4VUE5`| 🔷🔹
 
-The final solution is to run it through command prompt.  Go to **Windows > R** then select **Command Prompt**.  Right click on it then type in your full project directory: `./UnrealBuildTool.exe -projectfiles -project="D\\Location\for\ProjectName.uproject" -game -engine` and run it in command prompt.
+The final solution is to run it through command prompt.  Go to **Windows > R** then select **Command Prompt**.  Navigae to `C:\Program Files\Epic Games\ UE_5.X\Engine\DontNET\UnrealBuildTools\. The add: N
 
+```
+.\UnrealBuildTool.exe -projectfiles -project="D\\Location\for\ProjectName.uproject" -game -engine` and run it in command prompt.
+```
+Right click on it then copy your full project path to your `uproject` file then replace the project location above.
 
 ![create solution in command prompt](images/RunThroughCommandLine.png)
 
