@@ -16,7 +16,7 @@ When installing unreal often the links to the .uproject are not set up properly.
 
 If you have a blank page next to your Unreal 5 `.uproject` file then you will not be able to double click and launch the engine.
 
-![alt text](images/WontRunInEditor.png)
+![alt text](../images/WontRunInEditor.png)
 
 ![](../images/line3.png)
 ##### `Step 2.`\|`P4VUE5`|🔹🔹
