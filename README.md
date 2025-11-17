@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-1. [File Associations & VS Solution Files](fa/README.md#fa)
+1. [File Associations & VS Solution Files](fa/README.md)
 
 <details>
   <summary>Dev Tips</summary>
