@@ -2,7 +2,7 @@
 
 ### Epic Unreal 5 File Associations & Visual Studio Solution Files
 
-<sub>[previous](../first-hour/README.md#user-content-first-hour-in-ue4) • [home](../README.md#user-content-ue4-hello-world) • [next](../readme/README.md#user-content-readmemd-file)</sub>
+<sub>[home](../README.md#user-content-ue4-hello-world)</sub>
 
 ![](../images/line3.png)
 
@@ -12,132 +12,131 @@ When installing unreal often the links to the .uproject are not set up properly.
 ---
 
 
-##### `Step 1.`\|`UE5FASLNS`|:small_blue_diamond:
+##### `Step 1.`\|`UE5FASLNS`|🔹
 
 If you have a blank page next to your Unreal 5 `.uproject` file then you will not be able to double click and launch the engine.
 
 ![alt text](images/WontRunInEditor.png)
 
 ![](../images/line3.png)
-
-##### `Step 2.`\|`UE5FASLNS`|:small_blue_diamond: :small_blue_diamond: 
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 3.`\|`UE5FASLNS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 2.`\|`P4VUE5`|🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 4.`\|`UE5FASLNS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`P4VUE5`|🔹🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 5.`\|`UE5FASLNS`| :small_orange_diamond:
+##### `Step 4.`\|`P4VUE5`|🔹🔹🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 6.`\|`UE5FASLNS`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 5.`\|`P4VUE5`| 🔸
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 7.`\|`UE5FASLNS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 6.`\|`P4VUE5`| 🔸🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 8.`\|`UE5FASLNS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 7.`\|`P4VUE5`| 🔸🔹🔹
+![alt text](images/.png)
+
+![](../images/line3.png)
+
+##### `Step 8.`\|`P4VUE5`| 🔸🔹🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 9.`\|`UE5FASLNS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 9.`\|`P4VUE5`| 🔸🔹🔹🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 10.`\|`UE5FASLNS`| :large_blue_diamond:
+##### `Step 10.`\|`P4VUE5`| 🔷
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 11.`\|`UE5FASLNS`| :large_blue_diamond: :small_blue_diamond: 
+##### `Step 11.`\|`P4VUE5`| 🔷🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
 
-##### `Step 12.`\|`UE5FASLNS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+##### `Step 11.`\|`P4VUE5`| 🔷🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 13.`\|`UE5FASLNS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 13.`\|`P4VUE5`| 🔷🔹🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 14.`\|`UE5FASLNS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 14.`\|`P4VUE5`| 🔷🔹🔹🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 15.`\|`UE5FASLNS`| :large_blue_diamond: :small_orange_diamond: 
+##### `Step 15.`\|`P4VUE5`| 🔷🔸
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 16.`\|`UE5FASLNS`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 16.`\|`P4VUE5`| 🔷🔸🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 17.`\|`UE5FASLNS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 17.`\|`P4VUE5`| :🔷🔸🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 18.`\|`UE5FASLNS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 18.`\|`P4VUE5`| 🔷🔸🔹🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 19.`\|`UE5FASLNS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 19.`\|`P4VUE5`| 🔷🔸🔹🔹🔹🔹
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 20.`\|`UE5FASLNS`| :large_blue_diamond: :large_blue_diamond:
+##### `Step 20.`\|`P4VUE5`|  🔷🔷
 
 ![alt text](images/.png)
 
 ![](../images/line3.png)
 
-##### `Step 21.`\|`UE5FASLNS`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+##### `Step 21.`\|`P4VUE5`|  🔷🔷🔹
 
 ![alt text](images/.png)
+
 
 ___
 
@@ -147,5 +146,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../first-hour/README.md#user-content-first-hour-in-ue4)| [home](../README.md#user-content-ue4-hello-world) | [next](../readme/README.md#user-content-readmemd-file)|
-|---|---|---|
+| [home](../README.md#user-content-ue4-hello-world)|
+|---|
