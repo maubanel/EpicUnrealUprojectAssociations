@@ -6,7 +6,9 @@
 
 ![](../images/line3.png)
 
-When installing unreal often the links to the .uproject are not set up properly.  Having installed this on hundreds of computers this is an ongoing issue. Here are some strategies to fixing it especially if you need to create a Visual Studio solution file.
+When installing unreal often the links to the .uproject are not set up properly.  Having installed this on hundreds of computers this is an ongoing issue. Here are some strategies to fixing it especially if you need to create a Visual Studio solution file. 
+
+Go directly to **STEP 5.** as this is the best solution.
 <br>
 
 ---
