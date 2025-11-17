@@ -18,7 +18,7 @@ If you have a blank page next to your Unreal 5 `.uproject` file then you will no
 
 ![no ue icon on uproject file](./images/WontRunInEditor.png)
 
-![](./images/line3.png)
+![](../images/line3.png)
 ##### `Step 2.`\|`P4VUE5`|🔹🔹
 
 Right click on the `.uproject` file and select **Open with** then in the next pop up if there is no **Unreal** icon then select **Choose another app**. If there is still no Unreal app then select **Choose an app on your PC**. 
@@ -29,124 +29,80 @@ Right click on the `.uproject` file and select **Open with** then in the next po
 
 ##### `Step 3.`\|`P4VUE5`|🔹🔹🔹
 
-![alt text](images/.png)
+Select `UnrealEditor.exe` and select **Open**.  On the pop-up select **Always** to lock in Unreal editor.
+
+![Make an association betwee .uproject and unreal editor](images/LinkToEditor.png)
 
 ![](../images/line3.png)
 
 ##### `Step 4.`\|`P4VUE5`|🔹🔹🔹🔹
 
-![alt text](images/LinkToEditor.png)
+Now you see a link to the Unreal editor using the black **U** logo that is tied to that specific version of the engine.  There are two problems, if you have multiple versions of the engine the wrong one will try and load the project and there is no context menu to generate a Visual Studio solution file.  For that we need to run it through the 
+
+![black U icon on .uproject file](images/TiedToEditor.png)
 
 ![](../images/line3.png)
 
 ##### `Step 5.`\|`P4VUE5`| 🔸
 
-![alt text](images/.png)
+So for it to work better, automatically pick the correct installed version of Unreal and give you the context menu to generate visual studio files and more go to `Program Files > Epic Game > Launcher > Engine > Binaries > Win64` and copy to your clipboard the `UnrealVersionSelector` app. 
+
+![copy UnrealVersionSelector](images/VersionSelector.png)
 
 ![](../images/line3.png)
 
 ##### `Step 6.`\|`P4VUE5`| 🔸🔹
 
-![alt text](images/.png)
+Go to `Program Files > Epic Game > UE_5.X > Engine > Binaries > Win64` and paste the file there.  Right click on `UnrealVersionSelector` and select **Run as administrator**. You will get a pop up that says to register the directory as an Unreal Engine installation.  Select **Yes**.  If it is succesful it will say **Registration Successful**.
+
+![paste unreal version selector and run as administrator](images/PasteAndRunAsAdmin.png)
 
 ![](../images/line3.png)
 
 ##### `Step 7.`\|`P4VUE5`| 🔸🔹🔹
-![alt text](images/.png)
+
+Now right click on your `.uproject` file and select **PFTDigitalTwin** - then select **Choose another app** so you can relink it to this new executable.
+
+![create new link to version selector](images/SetNewLink.png)
 
 ![](../images/line3.png)
 
 ##### `Step 8.`\|`P4VUE5`| 🔸🔹🔹🔹
 
-![alt text](images/.png)
+Now select the blue icon for Unreal Engine that points to the **UnrealVersionSelector** app. Select **Always**.  Now you should have a blue icon.
+
+![relink to version selector](images/RelinkToVersionSelector.png)
 
 ![](../images/line3.png)
 
 ##### `Step 9.`\|`P4VUE5`| 🔸🔹🔹🔹🔹
 
-![alt text](images/.png)
+Now that we have the blue icon we also might want to generate a solution file for our C++ project. So the first method for creating a solution file is to right click the blue `.uproject` file and select **More options**.  Then select **Generate Visual Studio project files**. Wait a bit and you should get a visual studio solution.
+
+![right click uproject to generate solution](images/GenerateSolutionFile.png)
 
 ![](../images/line3.png)
 
 ##### `Step 10.`\|`P4VUE5`| 🔷
 
-![alt text](images/.png)
+The second way to create a visual solution file and project files is through the editor.  So if you have a valid set of binaries and can just launch the game directly without going into your **IDE**, then launch the game - then select **Tools > Generate Visual Studio Project**. This will effectively do the same thing.
+
+![generate visual studio solution through game](images/GenerateVisualStudioFileInEngine.png)
 
 ![](../images/line3.png)
 
 ##### `Step 11.`\|`P4VUE5`| 🔷🔹
 
-![alt text](images/.png)
+The final solution is to run it through command prompt.  Go to **Windows > R** then select **Command Prompt**.  Right click on it then type in your full project directory: `./UnrealBuildTool.exe -projectfiles -project="D\\Location\for\ProjectName.uproject" -game -engine` and run it in command prompt.
+
+
+![create solution in command prompt](images/RunThroughCommandLine.png)
 
 ![](../images/line3.png)
-
-
-##### `Step 11.`\|`P4VUE5`| 🔷🔹🔹
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 13.`\|`P4VUE5`| 🔷🔹🔹🔹
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 14.`\|`P4VUE5`| 🔷🔹🔹🔹🔹
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 15.`\|`P4VUE5`| 🔷🔸
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 16.`\|`P4VUE5`| 🔷🔸🔹
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 17.`\|`P4VUE5`| :🔷🔸🔹🔹
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 18.`\|`P4VUE5`| 🔷🔸🔹🔹🔹
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 19.`\|`P4VUE5`| 🔷🔸🔹🔹🔹🔹
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 20.`\|`P4VUE5`|  🔷🔷
-
-![alt text](images/.png)
-
-![](../images/line3.png)
-
-##### `Step 21.`\|`P4VUE5`|  🔷🔷🔹
-
-![alt text](images/.png)
 
 
 ___
 
-![](../images/line.png)
-
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - README.md File">
-
-![](../images/line.png)
 
 | [home](../README.md#user-content-ue4-hello-world)|
 |---|
